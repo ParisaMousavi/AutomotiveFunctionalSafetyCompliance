@@ -4,9 +4,9 @@ After I have written the "Automotive Functional Safety Cmpliance" E-Book of the 
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B[Square Rect]
-B -- My-> C[Square Rect]
+B -- My --> C[Square Rect]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY2MDIyMzMsLTkzMTI3NDI2NywzOD
-gzMDMwNzhdfQ==
+eyJoaXN0b3J5IjpbLTQ3MTU4NTY2LC05MzEyNzQyNjcsMzg4Mz
+AzMDc4XX0=
 -->
