@@ -4,9 +4,9 @@ After I have written the "Automotive Functional Safety Cmpliance" E-Book of the 
 ```mermaid
 graph LR
 A[Telematics Services] -- Link text --> B[Data Intelligence & Visualization]
-B -- My --> C[Square Rect]
+B -- My --> C[Infotainmenmt Servic]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzA4NjIyMiw3OTU4MTYwMTYsLTQ0MD
+eyJoaXN0b3J5IjpbMTg0MzMzMTU2Miw3OTU4MTYwMTYsLTQ0MD
 g5NDQyOCwtOTMxMjc0MjY3LDM4ODMwMzA3OF19
 -->
