@@ -5,9 +5,12 @@ After I have written the "Automotive Functional Safety Cmpliance" E-Book of the 
 graph LR
 A[Square Rect] -- Link text --> 
 B[Square Rect]
-C[Square Rect]
+
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTA5Mjk4NCwtOTMxMjc0MjY3LDM4OD
-MwMzA3OF19
+eyJoaXN0b3J5IjpbLTE0MzcyNDQ3OTIsLTkzMTI3NDI2NywzOD
+gzMDMwNzhdfQ==
 -->
