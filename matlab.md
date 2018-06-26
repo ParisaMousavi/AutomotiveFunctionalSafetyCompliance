@@ -43,9 +43,11 @@ rawImgDataTrain = uint8(fread(fid, numImg * numRows * numCols,...'uint8'));
 rawImgDataTrain = reshape(rawImgDataTrain, [numRows, numCols,...numImgs]);
 imgDataTrain(:,:,1,ii) = uint8(rawImgDataTrain(:,:,ii));
 ```
-Creting and Configuring networks layers
+**Creting and Configuring networks layers**
+
+The convolutional network is the common ty
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTUxNzY3OCwtMTUzMjQ2NzE4OSwtMT
-ExODcwNTYwNywtNDYzMjg2NzgsLTQ2MzI4Njc4LC0yMTU5OTU1
-MzQsLTEzNDk4NDUyMjYsMTg1NDkwMjksMTkwMTk5MDc1M119
+eyJoaXN0b3J5IjpbMzY0Njc0MTM1LC0xNTMyNDY3MTg5LC0xMT
+E4NzA1NjA3LC00NjMyODY3OCwtNDYzMjg2NzgsLTIxNTk5NTUz
+NCwtMTM0OTg0NTIyNiwxODU0OTAyOSwxOTAxOTkwNzUzXX0=
 -->
