@@ -33,7 +33,7 @@ B--> C[Train Network]
 C--> D[Check Accuracy]
 D--> E[Done]
 ```
-**Accessing the data**
+**1. Accessing the data**
 
 With the folowing code we can download the binary file, which contains images and read the images into array.
 
@@ -43,7 +43,7 @@ rawImgDataTrain = uint8(fread(fid, numImg * numRows * numCols,...'uint8'));
 rawImgDataTrain = reshape(rawImgDataTrain, [numRows, numCols,...numImgs]);
 imgDataTrain(:,:,1,ii) = uint8(rawImgDataTrain(:,:,ii));
 ```
-**Creting and Configuring networks layers**
+**2. Creting and Configuring networks layers**
 
 The convolutional network is the common type of deep learning network. It contains different layers. With each layer learning to detect different features.
 
@@ -71,12 +71,13 @@ layers = [  imageInputLayer([28 28 1])
 			classificationLayer() ]
 ```
 
+**3. Training the network**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg2MDg0NjcsMTE4MDEzOTU4MywtMj
-EyMDgxNTE3OSwtMTYxNTQ4OTM4NCwxMzQzODA1MzkyLC0yMjAw
-OTgwNzQsLTE1MzI0NjcxODksLTExMTg3MDU2MDcsLTQ2MzI4Nj
-c4LC00NjMyODY3OCwtMjE1OTk1NTM0LC0xMzQ5ODQ1MjI2LDE4
-NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbLTIwMjk2OTYyOTIsLTIwMTg2MDg0NjcsMT
+E4MDEzOTU4MywtMjEyMDgxNTE3OSwtMTYxNTQ4OTM4NCwxMzQz
+ODA1MzkyLC0yMjAwOTgwNzQsLTE1MzI0NjcxODksLTExMTg3MD
+U2MDcsLTQ2MzI4Njc4LC00NjMyODY3OCwtMjE1OTk1NTM0LC0x
+MzQ5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
 -->
