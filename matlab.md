@@ -33,7 +33,8 @@ B--> C[Train Network]
 C--> D[Check Accuracy]
 D--> E[Done]
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjgzNDU4MCwtMjE1OTk1NTM0LC0xMz
-Q5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbLTQ2MzI4Njc4LC0yMTU5OTU1MzQsLTEzND
+k4NDUyMjYsMTg1NDkwMjksMTkwMTk5MDc1M119
 -->
