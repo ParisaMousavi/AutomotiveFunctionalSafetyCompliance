@@ -16,7 +16,7 @@ For using each of them only three four lines are neccessary.
 
 ### Training a model from scratch
 
-For developing a model we
+For developing a model we can use Convolutional neural network (CN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg5MjAyOTgsMTkwMTk5MDc1M119
+eyJoaXN0b3J5IjpbMTgzNTI5MjI4MCwxOTAxOTkwNzUzXX0=
 -->
