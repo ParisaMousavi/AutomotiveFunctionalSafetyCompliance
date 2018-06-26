@@ -3,7 +3,7 @@
  - Training a network from scratch.
  - Using transfer learning to train on existing network.
  - Training an existing network to perform semantic segmentation.
-In this text we consider these lo
+**In this text we consider these logics for image classification.**
 
 The neural networks which are available in Matlab are as following:
 
@@ -15,5 +15,5 @@ The neural networks which are available in Matlab are as following:
 For using each of them only three four lines are neccessary.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMzI2NDExLDE5MDE5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NjM1NDQ0NzEsMTkwMTk5MDc1M119
 -->
