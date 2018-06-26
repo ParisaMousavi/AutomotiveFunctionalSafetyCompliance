@@ -14,6 +14,9 @@ The neural networks which are available in Matlab are as following:
 
 For using each of them only three four lines are neccessary.
 
+### Training a model from scratch
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM1NDQ0NzEsMTkwMTk5MDc1M119
+eyJoaXN0b3J5IjpbMTExMzM2MTgxNCwxOTAxOTkwNzUzXX0=
 -->
