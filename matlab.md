@@ -59,12 +59,11 @@ The common neural network layers are the following:
 
  - Softmax: provides probabilities for each category in the dataset.
  
- **For building a network from scratch, it's a good idea to start with a simple combination of commonly used layers.**
-
+ **For building a network from scratch, it's a good idea to start with a simple combination of commonly used layers.** In the following we have an example of defining layers in Matlab.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODA1NTk2NiwtMTYxNTQ4OTM4NCwxMz
-QzODA1MzkyLC0yMjAwOTgwNzQsLTE1MzI0NjcxODksLTExMTg3
-MDU2MDcsLTQ2MzI4Njc4LC00NjMyODY3OCwtMjE1OTk1NTM0LC
-0xMzQ5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbLTE2NzQzMTU0MzEsLTE2MTU0ODkzODQsMT
+M0MzgwNTM5MiwtMjIwMDk4MDc0LC0xNTMyNDY3MTg5LC0xMTE4
+NzA1NjA3LC00NjMyODY3OCwtNDYzMjg2NzgsLTIxNTk5NTUzNC
+wtMTM0OTg0NTIyNiwxODU0OTAyOSwxOTAxOTkwNzUzXX0=
 -->
