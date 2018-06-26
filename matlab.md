@@ -53,11 +53,12 @@ The common neural network layers are the following:
 
  - Rectified linear unit (ReLU)
  - Pooling
- - Fully conne
+ - Fully connected
+ - Softmax
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5ODkxMzYsLTIyMDA5ODA3NCwtMTUzMj
-Q2NzE4OSwtMTExODcwNTYwNywtNDYzMjg2NzgsLTQ2MzI4Njc4
-LC0yMTU5OTU1MzQsLTEzNDk4NDUyMjYsMTg1NDkwMjksMTkwMT
-k5MDc1M119
+eyJoaXN0b3J5IjpbMTU2MjE1MTQzMSwtMjIwMDk4MDc0LC0xNT
+MyNDY3MTg5LC0xMTE4NzA1NjA3LC00NjMyODY3OCwtNDYzMjg2
+NzgsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNiwxODU0OTAyOSwxOT
+AxOTkwNzUzXX0=
 -->
