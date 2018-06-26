@@ -37,16 +37,14 @@ D--> E[Done]
 With the folowing code we can download the binary file, which contains images and read the images into array.
 
 ```matlab
-rawImgDataTrain = uint8(fread(fid, numImg * numRows * numCols,...
-'uint8'));
+rawImgDataTrain = uint8(fread(fid, numImg * numRows * numCols,...'uint8'));
 % Reshape the data part into a 4D array
-rawImgDataTrain = reshape(rawImgDataTrain, [numRows, numCols,...
-numImgs]);
+rawImgDataTrain = reshape(rawImgDataTrain, [numRows, numCols,...numImgs]);
 imgDataTrain(:,:,1,ii) = uint8(rawImgDataTrain(:,:,ii));
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc0OTk3ODMsLTQ2MzI4Njc4LC00Nj
+eyJoaXN0b3J5IjpbLTExMTg3MDU2MDcsLTQ2MzI4Njc4LC00Nj
 MyODY3OCwtMjE1OTk1NTM0LC0xMzQ5ODQ1MjI2LDE4NTQ5MDI5
 LDE5MDE5OTA3NTNdfQ==
 -->
