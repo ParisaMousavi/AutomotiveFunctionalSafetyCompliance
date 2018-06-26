@@ -55,12 +55,12 @@ The common neural network layers are the following:
 
  - Pooling: simplifies the output by performing nonlinear downsampling, reducing the number of parameters that network needs to learn about.
 
- - Fully connected: 
+ - Fully connected: layers flatten the network's 2D spatial 
  - Softmax
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU0ODkzODQsMTM0MzgwNTM5MiwtMj
-IwMDk4MDc0LC0xNTMyNDY3MTg5LC0xMTE4NzA1NjA3LC00NjMy
-ODY3OCwtNDYzMjg2NzgsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNi
-wxODU0OTAyOSwxOTAxOTkwNzUzXX0=
+eyJoaXN0b3J5IjpbLTgzMTcyNzA0MywtMTYxNTQ4OTM4NCwxMz
+QzODA1MzkyLC0yMjAwOTgwNzQsLTE1MzI0NjcxODksLTExMTg3
+MDU2MDcsLTQ2MzI4Njc4LC00NjMyODY3OCwtMjE1OTk1NTM0LC
+0xMzQ5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
 -->
