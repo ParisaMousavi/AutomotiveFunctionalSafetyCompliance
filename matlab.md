@@ -53,12 +53,12 @@ The common neural network layers are the following:
 
  - Rectified linear unit (ReLU): allows for faster and more effective training by mapping negative values to zero and maintaining positive values.
 
- - Pooling: 
+ - Pooling: simplifies the output
  - Fully connected
  - Softmax
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzIyOTkzMiwtMjIwMDk4MDc0LC0xNT
+eyJoaXN0b3J5IjpbMTI2ODk4NTUwMSwtMjIwMDk4MDc0LC0xNT
 MyNDY3MTg5LC0xMTE4NzA1NjA3LC00NjMyODY3OCwtNDYzMjg2
 NzgsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNiwxODU0OTAyOSwxOT
 AxOTkwNzUzXX0=
