@@ -78,12 +78,13 @@ Before training we can select the tarining option.
 
 - Max epochs-> An epoch is the full pass of the training algorithm over the entire training set.
 
-- Minibatch size-> Minibatches are subsets of the training dataset 
+- Minibatch size-> Minibatches are subsets of the training dataset that are passed on the GPU at the same time.
+
 - Learning rate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTMzMTcxMiwtMTU5NTg0NzY1MiwxNj
+eyJoaXN0b3J5IjpbLTQ1MTM0ODA2OCwtMTU5NTg0NzY1MiwxNj
 AxNzc5NjUxLC0yMDE4NjA4NDY3LDExODAxMzk1ODMsLTIxMjA4
 MTUxNzksLTE2MTU0ODkzODQsMTM0MzgwNTM5MiwtMjIwMDk4MD
 c0LC0xNTMyNDY3MTg5LC0xMTE4NzA1NjA3LC00NjMyODY3OCwt
