@@ -76,13 +76,13 @@ Before training we can select the tarining option.
 
 - Plot of training progress -> The plot showa the minibatch loss and accuracy. It includes a stop buton that lets you halt network tarining at any time.
 
-- Max epochs->
+- Max epochs-> An epoch is the full pass of the training algorithm over the entire training 
 - Minibatch size
 - Learning rate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODYwMDY0OSwtMTU5NTg0NzY1MiwxNj
+eyJoaXN0b3J5IjpbMTAwNTE5OTcxNSwtMTU5NTg0NzY1MiwxNj
 AxNzc5NjUxLC0yMDE4NjA4NDY3LDExODAxMzk1ODMsLTIxMjA4
 MTUxNzksLTE2MTU0ODkzODQsMTM0MzgwNTM5MiwtMjIwMDk4MD
 c0LC0xNTMyNDY3MTg5LC0xMTE4NzA1NjA3LC00NjMyODY3OCwt
