@@ -15,7 +15,8 @@ The neural networks which are available in Matlab are as following:
  - SSD 
  - ResNet
  - AlexNet
- - R
+ - ResNet
+
 
 For using each of them only three four lines are neccessary.
 
@@ -24,6 +25,6 @@ For using each of them only three four lines are neccessary.
 For developing a model we can use Convolutional neural network (CNN) and we can identify handwritting when a person write a digit.
 The second thing that we need is the data, that e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0OTY3NDA3LDE4NTQ5MDI5LDE5MDE5OT
-A3NTNdfQ==
+eyJoaXN0b3J5IjpbMTc2MzY0OTA0OCwxODU0OTAyOSwxOTAxOT
+kwNzUzXX0=
 -->
