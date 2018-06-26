@@ -80,14 +80,14 @@ Before training we can select the tarining option.
 
 - Minibatch size-> Minibatches are subsets of the training dataset that are passed on the GPU at the same time.
 
-- Learning rate
+- Learning rate-> This is the major parameters that controls the speed of training.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTM0ODA2OCwtMTU5NTg0NzY1MiwxNj
-AxNzc5NjUxLC0yMDE4NjA4NDY3LDExODAxMzk1ODMsLTIxMjA4
-MTUxNzksLTE2MTU0ODkzODQsMTM0MzgwNTM5MiwtMjIwMDk4MD
-c0LC0xNTMyNDY3MTg5LC0xMTE4NzA1NjA3LC00NjMyODY3OCwt
-NDYzMjg2NzgsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNiwxODU0OT
-AyOSwxOTAxOTkwNzUzXX0=
+eyJoaXN0b3J5IjpbLTE3MjY2NTM2NjksLTQ1MTM0ODA2OCwtMT
+U5NTg0NzY1MiwxNjAxNzc5NjUxLC0yMDE4NjA4NDY3LDExODAx
+Mzk1ODMsLTIxMjA4MTUxNzksLTE2MTU0ODkzODQsMTM0MzgwNT
+M5MiwtMjIwMDk4MDc0LC0xNTMyNDY3MTg5LC0xMTE4NzA1NjA3
+LC00NjMyODY3OCwtNDYzMjg2NzgsLTIxNTk5NTUzNCwtMTM0OT
+g0NTIyNiwxODU0OTAyOSwxOTAxOTkwNzUzXX0=
 -->
