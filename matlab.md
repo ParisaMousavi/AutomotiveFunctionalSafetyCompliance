@@ -43,9 +43,9 @@ rawImgDataTrain = uint8(fread(fid, numImg * numRows * numCols,...'uint8'));
 rawImgDataTrain = reshape(rawImgDataTrain, [numRows, numCols,...numImgs]);
 imgDataTrain(:,:,1,ii) = uint8(rawImgDataTrain(:,:,ii));
 ```
-
+Creting and Configuring networks layers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI0NjcxODksLTExMTg3MDU2MDcsLT
-Q2MzI4Njc4LC00NjMyODY3OCwtMjE1OTk1NTM0LC0xMzQ5ODQ1
-MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbMTkzMTUxNzY3OCwtMTUzMjQ2NzE4OSwtMT
+ExODcwNTYwNywtNDYzMjg2NzgsLTQ2MzI4Njc4LC0yMTU5OTU1
+MzQsLTEzNDk4NDUyMjYsMTg1NDkwMjksMTkwMTk5MDc1M119
 -->
