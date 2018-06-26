@@ -78,15 +78,15 @@ Before training we can select the tarining option.
 
 - Max epochs-> An epoch is the full pass of the training algorithm over the entire training set.
 
-- Minibatch size-> 
+- Minibatch size-> Minibatches are subsets of the training dataset 
 - Learning rate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEzNTYyNTYsLTE1OTU4NDc2NTIsMT
-YwMTc3OTY1MSwtMjAxODYwODQ2NywxMTgwMTM5NTgzLC0yMTIw
-ODE1MTc5LC0xNjE1NDg5Mzg0LDEzNDM4MDUzOTIsLTIyMDA5OD
-A3NCwtMTUzMjQ2NzE4OSwtMTExODcwNTYwNywtNDYzMjg2Nzgs
-LTQ2MzI4Njc4LC0yMTU5OTU1MzQsLTEzNDk4NDUyMjYsMTg1ND
-kwMjksMTkwMTk5MDc1M119
+eyJoaXN0b3J5IjpbMTY0OTMzMTcxMiwtMTU5NTg0NzY1MiwxNj
+AxNzc5NjUxLC0yMDE4NjA4NDY3LDExODAxMzk1ODMsLTIxMjA4
+MTUxNzksLTE2MTU0ODkzODQsMTM0MzgwNTM5MiwtMjIwMDk4MD
+c0LC0xNTMyNDY3MTg5LC0xMTE4NzA1NjA3LC00NjMyODY3OCwt
+NDYzMjg2NzgsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNiwxODU0OT
+AyOSwxOTAxOTkwNzUzXX0=
 -->
