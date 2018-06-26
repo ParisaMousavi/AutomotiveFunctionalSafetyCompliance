@@ -62,20 +62,20 @@ The common neural network layers are the following:
  **For building a network from scratch, it's a good idea to start with a simple combination of commonly used layers.** In the following we have an example of defining layers in Matlab.
 
 ```matlab
-layers = [ imageInputLayer([28 28 1])
+layers = [  imageInputLayer([28 28 1])
 			convolution2dLayer(5,20)
 			reluLayer
 			maxPooling2dLayer(2, 'Stride', 2)
-fullyConnectedLayer(10)
-softmaxLayer
-classificationLayer() ]
+			fullyConnectedLayer(10)
+			softmaxLayer
+			classificationLayer() ]
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU3NzA1MDEsLTIxMjA4MTUxNzksLT
-E2MTU0ODkzODQsMTM0MzgwNTM5MiwtMjIwMDk4MDc0LC0xNTMy
-NDY3MTg5LC0xMTE4NzA1NjA3LC00NjMyODY3OCwtNDYzMjg2Nz
-gsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNiwxODU0OTAyOSwxOTAx
-OTkwNzUzXX0=
+eyJoaXN0b3J5IjpbMTE4MDEzOTU4MywtMjEyMDgxNTE3OSwtMT
+YxNTQ4OTM4NCwxMzQzODA1MzkyLC0yMjAwOTgwNzQsLTE1MzI0
+NjcxODksLTExMTg3MDU2MDcsLTQ2MzI4Njc4LC00NjMyODY3OC
+wtMjE1OTk1NTM0LC0xMzQ5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5
+OTA3NTNdfQ==
 -->
