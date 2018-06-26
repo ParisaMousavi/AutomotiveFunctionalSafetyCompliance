@@ -33,8 +33,15 @@ B--> C[Train Network]
 C--> D[Check Accuracy]
 D--> E[Done]
 ```
-
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzI4Njc4LC0yMTU5OTU1MzQsLTEzND
-k4NDUyMjYsMTg1NDkwMjksMTkwMTk5MDc1M119
+eyJoaXN0b3J5IjpbMzUzODM2NzYwLC00NjMyODY3OCwtMjE1OT
+k1NTM0LC0xMzQ5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNd
+fQ==
 -->
