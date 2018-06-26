@@ -35,10 +35,16 @@ D--> E[Done]
 ```
 **Accessing the data**
 With the folowing code we can download the binary file, which contains images and read the images into array.
-
+```
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEwNjc1NzcsLTQ2MzI4Njc4LC00Nj
-MyODY3OCwtMjE1OTk1NTM0LC0xMzQ5ODQ1MjI2LDE4NTQ5MDI5
-LDE5MDE5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbOTc4NTA1OTk4LC00NjMyODY3OCwtNDYzMj
+g2NzgsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNiwxODU0OTAyOSwx
+OTAxOTkwNzUzXX0=
 -->
