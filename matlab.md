@@ -47,9 +47,9 @@ imgDataTrain(:,:,1,ii) = uint8(rawImgDataTrain(:,:,ii));
 
 The convolutional network is the common type of deep learning network. It contains different layers. With each layer learning to detect different features.
 
-If we learn the CN
+If we learn the CNN deeper  wir notice the usage of filt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTI2OTEwOSwtMTUzMjQ2NzE4OSwtMT
+eyJoaXN0b3J5IjpbMTc3NDYxMjkwOCwtMTUzMjQ2NzE4OSwtMT
 ExODcwNTYwNywtNDYzMjg2NzgsLTQ2MzI4Njc4LC0yMTU5OTU1
 MzQsLTEzNDk4NDUyMjYsMTg1NDkwMjksMTkwMTk5MDc1M119
 -->
