@@ -16,7 +16,7 @@ For using each of them only three four lines are neccessary.
 
 ### Training a model from scratch
 
-
+For developing a model we
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzM2MTgxNCwxOTAxOTkwNzUzXX0=
+eyJoaXN0b3J5IjpbLTEyMjg5MjAyOTgsMTkwMTk5MDc1M119
 -->
