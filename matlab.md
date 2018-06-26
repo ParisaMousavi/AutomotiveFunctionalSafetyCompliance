@@ -28,12 +28,10 @@ The second thing that we need is the data, the models use data to learn some thi
 
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A[Access Data] ----> B[Configure Network Layers]
+B----> C
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDA0NTQwNiwtMjE1OTk1NTM0LC0xMz
+eyJoaXN0b3J5IjpbLTg4MjM5MTc0MywtMjE1OTk1NTM0LC0xMz
 Q5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
 -->
