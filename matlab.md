@@ -34,9 +34,12 @@ C--> D[Check Accuracy]
 D--> E[Done]
 ```
 **Accessing the data**
-With the folowing code we can download the binary file, which contains images and read the images 
+With the folowing code we can download the binary file, which contains images and read the images into array.
+```sh
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODE5NjAxMiwtNDYzMjg2NzgsLTQ2Mz
+eyJoaXN0b3J5IjpbLTk4NDg1OTgwNiwtNDYzMjg2NzgsLTQ2Mz
 I4Njc4LC0yMTU5OTU1MzQsLTEzNDk4NDUyMjYsMTg1NDkwMjks
 MTkwMTk5MDc1M119
 -->
