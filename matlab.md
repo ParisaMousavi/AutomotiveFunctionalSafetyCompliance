@@ -49,10 +49,11 @@ The convolutional network is the common type of deep learning network. It contai
 
 If we learn the CNN deeper  wir notice the usage of filters in different layers. Filters are applied to different resolutions, their output is the input of next layer.
 
-In 
+The common neural network layers are the following:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2MjgyMjk1LC0yMjAwOTgwNzQsLTE1Mz
-I0NjcxODksLTExMTg3MDU2MDcsLTQ2MzI4Njc4LC00NjMyODY3
-OCwtMjE1OTk1NTM0LC0xMzQ5ODQ1MjI2LDE4NTQ5MDI5LDE5MD
-E5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbMTI1OTUzMDczMSwtMjIwMDk4MDc0LC0xNT
+MyNDY3MTg5LC0xMTE4NzA1NjA3LC00NjMyODY3OCwtNDYzMjg2
+NzgsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNiwxODU0OTAyOSwxOT
+AxOTkwNzUzXX0=
 -->
