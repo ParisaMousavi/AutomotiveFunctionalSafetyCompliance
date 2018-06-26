@@ -1,7 +1,8 @@
 ## Mchine learning in Matlab
 
- - List item
+ - Training a nork from scratc
+ - Using transfer learning o
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTM3OTkzMiwxOTAxOTkwNzUzXX0=
+eyJoaXN0b3J5IjpbLTE1MDcwODM5MjcsMTkwMTk5MDc1M119
 -->
