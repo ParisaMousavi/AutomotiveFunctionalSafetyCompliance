@@ -28,10 +28,10 @@ The second thing that we need is the data, the models use data to learn some thi
 
 ```mermaid
 graph LR
-A[Access Data] ----> B[Configure Network Layers]
-B----> C[Train Network]
+A[Access Data] --> B[Configure Network Layers]
+B--> C[Train Network]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTQ0NjQwNywtMjE1OTk1NTM0LC0xMz
+eyJoaXN0b3J5IjpbMTQ2MTQ3MzIwOSwtMjE1OTk1NTM0LC0xMz
 Q5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
 -->
