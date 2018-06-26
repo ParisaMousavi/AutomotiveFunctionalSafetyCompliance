@@ -59,11 +59,12 @@ The common neural network layers are the following:
 
  - Softmax: provides probabilities for each category in the dataset.
  
- **For building a network from scratch, it's a good idea to start with **
+ **For building a network from scratch, it's a good idea to start with a simple combination of commonly used layers.**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTQ5MTA4LC0xNjE1NDg5Mzg0LDEzND
-M4MDUzOTIsLTIyMDA5ODA3NCwtMTUzMjQ2NzE4OSwtMTExODcw
-NTYwNywtNDYzMjg2NzgsLTQ2MzI4Njc4LC0yMTU5OTU1MzQsLT
-EzNDk4NDUyMjYsMTg1NDkwMjksMTkwMTk5MDc1M119
+eyJoaXN0b3J5IjpbLTc2ODA1NTk2NiwtMTYxNTQ4OTM4NCwxMz
+QzODA1MzkyLC0yMjAwOTgwNzQsLTE1MzI0NjcxODksLTExMTg3
+MDU2MDcsLTQ2MzI4Njc4LC00NjMyODY3OCwtMjE1OTk1NTM0LC
+0xMzQ5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
 -->
