@@ -74,14 +74,14 @@ layers = [  imageInputLayer([28 28 1])
 **3. Training the network**
 Before training we can select the tarining option.
 
-- Plot of training progress
+- Plot of training progress -> The plot showa the minibatch loss and accuracy
 - Max epochs
 - Minibatch size
 - Learning rate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI1MTI2OTgsLTE1OTU4NDc2NTIsMT
+eyJoaXN0b3J5IjpbLTIwMjg3MDc3MTYsLTE1OTU4NDc2NTIsMT
 YwMTc3OTY1MSwtMjAxODYwODQ2NywxMTgwMTM5NTgzLC0yMTIw
 ODE1MTc5LC0xNjE1NDg5Mzg0LDEzNDM4MDUzOTIsLTIyMDA5OD
 A3NCwtMTUzMjQ2NzE4OSwtMTExODcwNTYwNywtNDYzMjg2Nzgs
