@@ -6,6 +6,12 @@
 
 The neural networks which are available in Matlab are as following:
 
+ - LeNet
+ - GoogleNet
+ - Tensorflow
+ - Keras 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjI2NDIwMiwxOTAxOTkwNzUzXX0=
+eyJoaXN0b3J5IjpbLTE2NDk4MjA5NSwxOTAxOTkwNzUzXX0=
 -->
