@@ -45,9 +45,10 @@ imgDataTrain(:,:,1,ii) = uint8(rawImgDataTrain(:,:,ii));
 ```
 **Creting and Configuring networks layers**
 
-The convolutional network is the common ty
+The convolutional network is the common type of deep learning network.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0Njc0MTM1LC0xNTMyNDY3MTg5LC0xMT
-E4NzA1NjA3LC00NjMyODY3OCwtNDYzMjg2NzgsLTIxNTk5NTUz
-NCwtMTM0OTg0NTIyNiwxODU0OTAyOSwxOTAxOTkwNzUzXX0=
+eyJoaXN0b3J5IjpbLTIwNjg5NzQ1ODEsLTE1MzI0NjcxODksLT
+ExMTg3MDU2MDcsLTQ2MzI4Njc4LC00NjMyODY3OCwtMjE1OTk1
+NTM0LC0xMzQ5ODQ1MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ
+==
 -->
