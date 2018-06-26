@@ -51,14 +51,15 @@ If we learn the CNN deeper  wir notice the usage of filters in different layers.
 
 The common neural network layers are the following:
 
- - Rectified linear unit (ReLU): allows for faster and more effective training by mapping negative values to zero and mai
- - Pooling
+ - Rectified linear unit (ReLU): allows for faster and more effective training by mapping negative values to zero and maintaining positive values.
+
+ - Pooling: 
  - Fully connected
  - Softmax
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjMyNTcxODMsLTIyMDA5ODA3NCwtMT
-UzMjQ2NzE4OSwtMTExODcwNTYwNywtNDYzMjg2NzgsLTQ2MzI4
-Njc4LC0yMTU5OTU1MzQsLTEzNDk4NDUyMjYsMTg1NDkwMjksMT
-kwMTk5MDc1M119
+eyJoaXN0b3J5IjpbLTYyMzIyOTkzMiwtMjIwMDk4MDc0LC0xNT
+MyNDY3MTg5LC0xMTE4NzA1NjA3LC00NjMyODY3OCwtNDYzMjg2
+NzgsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNiwxODU0OTAyOSwxOT
+AxOTkwNzUzXX0=
 -->
