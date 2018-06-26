@@ -24,8 +24,9 @@ For using each of them only three four lines are neccessary.
 ### Training a model from scratch
 
 For developing a model we can use Convolutional neural network (CNN) and we can identify handwritting when a person write a digit.
-The second thing that we need is the data, the models use data to learn some thing. 
+The second thing that we need is the data, the models use data to learn some thing. More data precizer is the model.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTQ0NDkwOSwtMTM0OTg0NTIyNiwxOD
+eyJoaXN0b3J5IjpbMTg5ODMxMjI3MCwtMTM0OTg0NTIyNiwxOD
 U0OTAyOSwxOTAxOTkwNzUzXX0=
 -->
