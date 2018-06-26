@@ -12,7 +12,7 @@ The neural networks which are available in Matlab are as following:
  - Tensorflow
  - Keras 
  - Yolo 
- - 
+ - SSD 
 
 For using each of them only three four lines are neccessary.
 
@@ -21,6 +21,6 @@ For using each of them only three four lines are neccessary.
 For developing a model we can use Convolutional neural network (CNN) and we can identify handwritting when a person write a digit.
 The second thing that we need is the data, that e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MTYyMjE2LDE4NTQ5MDI5LDE5MDE5OT
-A3NTNdfQ==
+eyJoaXN0b3J5IjpbMTI5MTE1NTExNiwxODU0OTAyOSwxOTAxOT
+kwNzUzXX0=
 -->
