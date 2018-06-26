@@ -11,7 +11,7 @@ The neural networks which are available in Matlab are as following:
  - Tensorflow
  - Keras 
 
-
+For using each of them only three four lines are neccessary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk4MjA5NSwxOTAxOTkwNzUzXX0=
+eyJoaXN0b3J5IjpbLTIxMjQyOTk0OTksMTkwMTk5MDc1M119
 -->
