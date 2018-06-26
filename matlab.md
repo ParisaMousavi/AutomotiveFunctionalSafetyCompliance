@@ -52,11 +52,12 @@ If we learn the CNN deeper  wir notice the usage of filters in different layers.
 The common neural network layers are the following:
 
  - Rectified linear unit (ReLU)
- - Pooli
+ - Pooling
+ - Fully conne
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2MjcyODc1LC0yMjAwOTgwNzQsLTE1Mz
-I0NjcxODksLTExMTg3MDU2MDcsLTQ2MzI4Njc4LC00NjMyODY3
-OCwtMjE1OTk1NTM0LC0xMzQ5ODQ1MjI2LDE4NTQ5MDI5LDE5MD
-E5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbNDA5ODkxMzYsLTIyMDA5ODA3NCwtMTUzMj
+Q2NzE4OSwtMTExODcwNTYwNywtNDYzMjg2NzgsLTQ2MzI4Njc4
+LC0yMTU5OTU1MzQsLTEzNDk4NDUyMjYsMTg1NDkwMjksMTkwMT
+k5MDc1M119
 -->
