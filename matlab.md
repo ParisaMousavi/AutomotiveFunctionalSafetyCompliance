@@ -61,8 +61,10 @@ The common neural network layers are the following:
  
  **For building a network from scratch, it's a good idea to start with a simple combination of commonly used layers.** In the following we have an example of defining layers in Matlab.
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQzMTU0MzEsLTE2MTU0ODkzODQsMT
+eyJoaXN0b3J5IjpbLTIxMjA4MTUxNzksLTE2MTU0ODkzODQsMT
 M0MzgwNTM5MiwtMjIwMDk4MDc0LC0xNTMyNDY3MTg5LC0xMTE4
 NzA1NjA3LC00NjMyODY3OCwtNDYzMjg2NzgsLTIxNTk5NTUzNC
 wtMTM0OTg0NTIyNiwxODU0OTAyOSwxOTAxOTkwNzUzXX0=
