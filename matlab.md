@@ -36,7 +36,7 @@ D--> E[Done]
 **Accessing the data**
 With the folowing code we can download the binary file, which contains images and read the images into array.
 
-```ruby
+```c
 rawImgDataTrain = uint8 (fread(fid, numImg * numRows * numCols,...
 'uint8'));
 % Reshape the data part into a 4D array
@@ -46,7 +46,7 @@ imgDataTrain(:,:,1,ii) = uint8(rawImgDataTrain(:,:,ii));
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg1NzA4MDAsLTQ2MzI4Njc4LC00Nj
-MyODY3OCwtMjE1OTk1NTM0LC0xMzQ5ODQ1MjI2LDE4NTQ5MDI5
-LDE5MDE5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbMzg1MTk4NjU3LC00NjMyODY3OCwtNDYzMj
+g2NzgsLTIxNTk5NTUzNCwtMTM0OTg0NTIyNiwxODU0OTAyOSwx
+OTAxOTkwNzUzXX0=
 -->
