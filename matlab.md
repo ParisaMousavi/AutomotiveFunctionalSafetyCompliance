@@ -34,6 +34,7 @@ C--> D[Check Accuracy]
 D--> E[Done]
 ```
 **Accessing the data**
+
 With the folowing code we can download the binary file, which contains images and read the images into array.
 
 ```matlab
@@ -44,7 +45,7 @@ imgDataTrain(:,:,1,ii) = uint8(rawImgDataTrain(:,:,ii));
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg3MDU2MDcsLTQ2MzI4Njc4LC00Nj
-MyODY3OCwtMjE1OTk1NTM0LC0xMzQ5ODQ1MjI2LDE4NTQ5MDI5
-LDE5MDE5OTA3NTNdfQ==
+eyJoaXN0b3J5IjpbLTE1MzI0NjcxODksLTExMTg3MDU2MDcsLT
+Q2MzI4Njc4LC00NjMyODY3OCwtMjE1OTk1NTM0LC0xMzQ5ODQ1
+MjI2LDE4NTQ5MDI5LDE5MDE5OTA3NTNdfQ==
 -->
