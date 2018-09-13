@@ -26,7 +26,7 @@ The AUtomotive Safety Integrity Level has three levels:
 2- Probability of exposure -> To operational situation.
 3- Controllability -> Ability for persons at risk to take action to avoid harm.
 
-
+To have a system which h
 
 
 
@@ -44,7 +44,8 @@ The AUtomotive Safety Integrity Level has three levels:
 - 1- Safety Cases and their role in ISO 26262 Functional Safety Assessment (John Birch1, Roger Rivett2, Ibrahim Habli3, Ben Bradshaw4, John Botham5, Dave
 Higham6, Peter Jesty7, Helen Monkhouse8, Robert Palin9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NTg3NDczLC0xOTMxMjczMTA1LC0xMT
-I1NDIzNjg3LDc3OTI3NjQxNCwtMzQ2Mjc2NDU2LDc5NTgxNjAx
-NiwtNDQwODk0NDI4LC05MzEyNzQyNjcsMzg4MzAzMDc4XX0=
+eyJoaXN0b3J5IjpbMTcxMTU3NDg1OSw5NzY1ODc0NzMsLTE5Mz
+EyNzMxMDUsLTExMjU0MjM2ODcsNzc5Mjc2NDE0LC0zNDYyNzY0
+NTYsNzk1ODE2MDE2LC00NDA4OTQ0MjgsLTkzMTI3NDI2NywzOD
+gzMDMwNzhdfQ==
 -->
