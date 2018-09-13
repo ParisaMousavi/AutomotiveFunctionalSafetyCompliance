@@ -24,7 +24,9 @@ As ISO 26262 defines the dafety cases like the following items:
 The AUtomotive Safety Integrity Level has three levels:
 1- Severity -> Extent of human hard.
 2- Probability of exposure -> To operational situation.
-3- Controllability -> Ability for person
+3- Controllability -> Ability for persons at risk to take action to avoid harm.
+
+
 
 
 
@@ -42,8 +44,7 @@ The AUtomotive Safety Integrity Level has three levels:
 - 1- Safety Cases and their role in ISO 26262 Functional Safety Assessment (John Birch1, Roger Rivett2, Ibrahim Habli3, Ben Bradshaw4, John Botham5, Dave
 Higham6, Peter Jesty7, Helen Monkhouse8, Robert Palin9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM3NDc1MzQsLTE5MzEyNzMxMDUsLT
-ExMjU0MjM2ODcsNzc5Mjc2NDE0LC0zNDYyNzY0NTYsNzk1ODE2
-MDE2LC00NDA4OTQ0MjgsLTkzMTI3NDI2NywzODgzMDMwNzhdfQ
-==
+eyJoaXN0b3J5IjpbOTc2NTg3NDczLC0xOTMxMjczMTA1LC0xMT
+I1NDIzNjg3LDc3OTI3NjQxNCwtMzQ2Mjc2NDU2LDc5NTgxNjAx
+NiwtNDQwODk0NDI4LC05MzEyNzQyNjcsMzg4MzAzMDc4XX0=
 -->
