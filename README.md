@@ -9,9 +9,9 @@ B -- My --> C[Infotainmenmt Servic]
 
 # Why we need functional safty in vehicles?
 
-
+In vehicles we have the systems whose malfunction has the potential to lead to an unreasonable level of risk. Therefore 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5Mjc2NDE0LC0zNDYyNzY0NTYsNzk1OD
-E2MDE2LC00NDA4OTQ0MjgsLTkzMTI3NDI2NywzODgzMDMwNzhd
-fQ==
+eyJoaXN0b3J5IjpbLTQzNTcyNDUzOCw3NzkyNzY0MTQsLTM0Nj
+I3NjQ1Niw3OTU4MTYwMTYsLTQ0MDg5NDQyOCwtOTMxMjc0MjY3
+LDM4ODMwMzA3OF19
 -->
