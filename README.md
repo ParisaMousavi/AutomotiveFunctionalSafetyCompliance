@@ -32,11 +32,12 @@ As ISO 26262 defines the dafety cases like the following items:
 
 
 
+
 **References**
 - 1- Safety Cases and their role in ISO 26262 Functional Safety Assessment (John Birch1, Roger Rivett2, Ibrahim Habli3, Ben Bradshaw4, John Botham5, Dave
 Higham6, Peter Jesty7, Helen Monkhouse8, Robert Palin9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MTQyNzU4LC0xMTI1NDIzNjg3LDc3OT
-I3NjQxNCwtMzQ2Mjc2NDU2LDc5NTgxNjAxNiwtNDQwODk0NDI4
-LC05MzEyNzQyNjcsMzg4MzAzMDc4XX0=
+eyJoaXN0b3J5IjpbLTE3OTQwNjU5MDAsLTExMjU0MjM2ODcsNz
+c5Mjc2NDE0LC0zNDYyNzY0NTYsNzk1ODE2MDE2LC00NDA4OTQ0
+MjgsLTkzMTI3NDI2NywzODgzMDMwNzhdfQ==
 -->
