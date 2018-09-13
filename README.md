@@ -18,6 +18,8 @@ As ISO 26262 defines the dafety cases like the following items:
 
 
 
+# Implicit safety argument in ISO 26262
+
 
 
 
@@ -34,7 +36,7 @@ As ISO 26262 defines the dafety cases like the following items:
 - 1- Safety Cases and their role in ISO 26262 Functional Safety Assessment (John Birch1, Roger Rivett2, Ibrahim Habli3, Ben Bradshaw4, John Botham5, Dave
 Higham6, Peter Jesty7, Helen Monkhouse8, Robert Palin9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjU5OTE0OSwtMTEyNTQyMzY4Nyw3Nz
-kyNzY0MTQsLTM0NjI3NjQ1Niw3OTU4MTYwMTYsLTQ0MDg5NDQy
-OCwtOTMxMjc0MjY3LDM4ODMwMzA3OF19
+eyJoaXN0b3J5IjpbNjI0MTQyNzU4LC0xMTI1NDIzNjg3LDc3OT
+I3NjQxNCwtMzQ2Mjc2NDU2LDc5NTgxNjAxNiwtNDQwODk0NDI4
+LC05MzEyNzQyNjcsMzg4MzAzMDc4XX0=
 -->
