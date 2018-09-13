@@ -9,9 +9,11 @@ B -- My --> C[Infotainmenmt Servic]
 
 # Why we need functional safty in vehicles?
 
-In vehicles we have the systems whose malfunction has the potential to lead to an unreasonable level of risk. Therefore the ISO 26262 should be used as the automotive standard for the functional safety in 
+In vehicles we have the systems whose malfunction has the potential to lead to an unreasonable level of risk. Therefore the ISO 26262 should be used as the automotive standard for the functional safety case in electrical and/or electronic (E/E) systems.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzMjEwODYwLDc3OTI3NjQxNCwtMzQ2Mj
+eyJoaXN0b3J5IjpbMTc1ODUzOTIzLDc3OTI3NjQxNCwtMzQ2Mj
 c2NDU2LDc5NTgxNjAxNiwtNDQwODk0NDI4LC05MzEyNzQyNjcs
 Mzg4MzAzMDc4XX0=
 -->
