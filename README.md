@@ -22,7 +22,9 @@ As ISO 26262 defines the dafety cases like the following items:
 
 ** Hazardous evnt:** A hazardous event is the occurrence of a hazard in particular operational situation. Each haradous event is assigned an Automotive Safety Integrity Level (ASIL).
 The AUtomotive Safety Integrity Level has three levels:
-1- Severity -> 
+1- Severity -> Extent of human hard.
+2- Probability of exposure -> To operational situation.
+3- Controllability -> Ability for person
 
 
 
@@ -40,7 +42,8 @@ The AUtomotive Safety Integrity Level has three levels:
 - 1- Safety Cases and their role in ISO 26262 Functional Safety Assessment (John Birch1, Roger Rivett2, Ibrahim Habli3, Ben Bradshaw4, John Botham5, Dave
 Higham6, Peter Jesty7, Helen Monkhouse8, Robert Palin9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODMyMzA4NywtMTkzMTI3MzEwNSwtMT
-EyNTQyMzY4Nyw3NzkyNzY0MTQsLTM0NjI3NjQ1Niw3OTU4MTYw
-MTYsLTQ0MDg5NDQyOCwtOTMxMjc0MjY3LDM4ODMwMzA3OF19
+eyJoaXN0b3J5IjpbLTE1MzM3NDc1MzQsLTE5MzEyNzMxMDUsLT
+ExMjU0MjM2ODcsNzc5Mjc2NDE0LC0zNDYyNzY0NTYsNzk1ODE2
+MDE2LC00NDA4OTQ0MjgsLTkzMTI3NDI2NywzODgzMDMwNzhdfQ
+==
 -->
