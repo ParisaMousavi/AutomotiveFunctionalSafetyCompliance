@@ -12,8 +12,15 @@ B -- My --> C[Infotainmenmt Servic]
 In vehicles we have the systems whose malfunction has the potential to lead to an unreasonable level of risk. Therefore the ISO 26262 should be used as the automotive standard for the functional safety case in electrical and/or electronic (E/E) systems.
 
 
+
+
+
+
+**References**
+- Safety Cases and their role in ISO 26262 Functional Safety Assessment (John Birch1, Roger Rivett2, Ibrahim Habli3, Ben Bradshaw4, John Botham5, Dave
+Higham6, Peter Jesty7, Helen Monkhouse8, Robert Palin9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODUzOTIzLDc3OTI3NjQxNCwtMzQ2Mj
-c2NDU2LDc5NTgxNjAxNiwtNDQwODk0NDI4LC05MzEyNzQyNjcs
-Mzg4MzAzMDc4XX0=
+eyJoaXN0b3J5IjpbLTIwNDA3NjAwODIsNzc5Mjc2NDE0LC0zND
+YyNzY0NTYsNzk1ODE2MDE2LC00NDA4OTQ0MjgsLTkzMTI3NDI2
+NywzODgzMDMwNzhdfQ==
 -->
