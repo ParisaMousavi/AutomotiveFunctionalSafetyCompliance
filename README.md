@@ -20,7 +20,7 @@ As ISO 26262 defines the dafety cases like the following items:
 
 # Implicit safety argument in ISO 26262
 
-** Hazardous evnt:** A hazardous event is the occurrence of a hazard in particular operational situation. Each haradous eve
+** Hazardous evnt:** A hazardous event is the occurrence of a hazard in particular operational situation. Each haradous event is assigned an Automotive Safety Integrity Level (ASIL).
 
 
 
@@ -37,7 +37,7 @@ As ISO 26262 defines the dafety cases like the following items:
 - 1- Safety Cases and their role in ISO 26262 Functional Safety Assessment (John Birch1, Roger Rivett2, Ibrahim Habli3, Ben Bradshaw4, John Botham5, Dave
 Higham6, Peter Jesty7, Helen Monkhouse8, Robert Palin9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDU1NjA4OCwtMTEyNTQyMzY4Nyw3Nz
-kyNzY0MTQsLTM0NjI3NjQ1Niw3OTU4MTYwMTYsLTQ0MDg5NDQy
-OCwtOTMxMjc0MjY3LDM4ODMwMzA3OF19
+eyJoaXN0b3J5IjpbLTE5MzEyNzMxMDUsLTExMjU0MjM2ODcsNz
+c5Mjc2NDE0LC0zNDYyNzY0NTYsNzk1ODE2MDE2LC00NDA4OTQ0
+MjgsLTkzMTI3NDI2NywzODgzMDMwNzhdfQ==
 -->
