@@ -1,4 +1,7 @@
 # Learning C++
+
+For programming with C++ we have some guidelines:
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDk1Mjk0Ml19
+eyJoaXN0b3J5IjpbLTE1MjE1OTI2MDVdfQ==
 -->
