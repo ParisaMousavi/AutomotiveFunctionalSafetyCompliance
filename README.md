@@ -1,5 +1,5 @@
 
-Learning C++
+[Learning C++](https://github.com/ParisaMousavi/AutomotiveFunctionalSafetyCompliance/blob/master/LearningC++.md)
 
 # Automotive Functional Safety Compliance
 
@@ -49,8 +49,8 @@ To have a system which has compliance with the automotive standard ISO 26262 we 
 - 1- Safety Cases and their role in ISO 26262 Functional Safety Assessment (John Birch1, Roger Rivett2, Ibrahim Habli3, Ben Bradshaw4, John Botham5, Dave
 Higham6, Peter Jesty7, Helen Monkhouse8, Robert Palin9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjEzNDgzNjcsLTM2MjkxNTM5OCw5Nz
-Y1ODc0NzMsLTE5MzEyNzMxMDUsLTExMjU0MjM2ODcsNzc5Mjc2
-NDE0LC0zNDYyNzY0NTYsNzk1ODE2MDE2LC00NDA4OTQ0MjgsLT
-kzMTI3NDI2NywzODgzMDMwNzhdfQ==
+eyJoaXN0b3J5IjpbODQ3NDc1NDMyLC0zNjI5MTUzOTgsOTc2NT
+g3NDczLC0xOTMxMjczMTA1LC0xMTI1NDIzNjg3LDc3OTI3NjQx
+NCwtMzQ2Mjc2NDU2LDc5NTgxNjAxNiwtNDQwODk0NDI4LC05Mz
+EyNzQyNjcsMzg4MzAzMDc4XX0=
 -->
