@@ -17,8 +17,9 @@ First example for learning C++ is the following example
  }
 ```
 
+To avoid writting std:: we can use the following code snippets
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUxODA5NTAsLTEyODAzMDIxOTFdfQ
-==
+eyJoaXN0b3J5IjpbLTI5MjQwNjU3NywtMTAzNTE4MDk1MCwtMT
+I4MDMwMjE5MV19
 -->
