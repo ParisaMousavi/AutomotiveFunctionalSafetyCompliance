@@ -19,7 +19,16 @@ First example for learning C++ is the following example
 
 To avoid writting std:: we can use the following code snippets
 
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+        cout << "Hey, writing std:: is pain, ";
+        cout << "change the program so I don't have to write it.";
+        return 0;
+    }
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjQwNjU3NywtMTAzNTE4MDk1MCwtMT
+eyJoaXN0b3J5IjpbMTUzMDM1MDc3NSwtMTAzNTE4MDk1MCwtMT
 I4MDMwMjE5MV19
 -->
