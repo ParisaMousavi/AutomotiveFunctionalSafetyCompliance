@@ -30,8 +30,11 @@ int main()
 }
 ```
 
-## 
+## C++ functions
+```python
+sizeof(int)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM2NTAwMzMsLTY2ODg4ODIwMSwyND
-AwMzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMwMjE5MV19
+eyJoaXN0b3J5IjpbMzMwMjk4MzE3LC02Njg4ODgyMDEsMjQwMD
+M0NjUsLTEwMzUxODA5NTAsLTEyODAzMDIxOTFdfQ==
 -->
