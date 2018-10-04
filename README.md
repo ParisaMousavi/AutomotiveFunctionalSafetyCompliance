@@ -1,3 +1,6 @@
+
+Learning C++
+
 # Automotive Functional Safety Compliance
 
 After I have written the "Automotive Functional Safety Cmpliance" E-Book of the intland. I gain for informatin about the functional safety compliance with ISO26262.
@@ -46,8 +49,8 @@ To have a system which has compliance with the automotive standard ISO 26262 we 
 - 1- Safety Cases and their role in ISO 26262 Functional Safety Assessment (John Birch1, Roger Rivett2, Ibrahim Habli3, Ben Bradshaw4, John Botham5, Dave
 Higham6, Peter Jesty7, Helen Monkhouse8, Robert Palin9)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjkxNTM5OCw5NzY1ODc0NzMsLTE5Mz
-EyNzMxMDUsLTExMjU0MjM2ODcsNzc5Mjc2NDE0LC0zNDYyNzY0
-NTYsNzk1ODE2MDE2LC00NDA4OTQ0MjgsLTkzMTI3NDI2NywzOD
-gzMDMwNzhdfQ==
+eyJoaXN0b3J5IjpbLTE3NjEzNDgzNjcsLTM2MjkxNTM5OCw5Nz
+Y1ODc0NzMsLTE5MzEyNzMxMDUsLTExMjU0MjM2ODcsNzc5Mjc2
+NDE0LC0zNDYyNzY0NTYsNzk1ODE2MDE2LC00NDA4OTQ0MjgsLT
+kzMTI3NDI2NywzODgzMDMwNzhdfQ==
 -->
