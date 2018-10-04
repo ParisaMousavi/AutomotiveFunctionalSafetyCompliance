@@ -31,7 +31,8 @@ int main()
 ```
 
 ** C++ functions**
-```python
+
+```c++
 sizeof(int)
 ```
 int 4
@@ -48,7 +49,7 @@ bool 1
 const int weightGoal = 100;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNjkyNDkzLC0xNjcxODc0OTA1LC02Nj
-g4ODgyMDEsMjQwMDM0NjUsLTEwMzUxODA5NTAsLTEyODAzMDIx
-OTFdfQ==
+eyJoaXN0b3J5IjpbMTI3MTUxODc2MiwtMTY3MTg3NDkwNSwtNj
+Y4ODg4MjAxLDI0MDAzNDY1LC0xMDM1MTgwOTUwLC0xMjgwMzAy
+MTkxXX0=
 -->
