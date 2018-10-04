@@ -34,8 +34,16 @@ int main()
 ```python
 sizeof(int)
 ```
+int 4
+short 2
+long 8
+char 1
+float 4
+double 8
+bool 1
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjY4ODQ0MywtNjY4ODg4MjAxLDI0MD
-AzNDY1LC0xMDM1MTgwOTUwLC0xMjgwMzAyMTkxXX0=
+eyJoaXN0b3J5IjpbLTE2NzE4NzQ5MDUsLTY2ODg4ODIwMSwyND
+AwMzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMwMjE5MV19
 -->
