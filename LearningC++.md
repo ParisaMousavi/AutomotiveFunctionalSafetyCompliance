@@ -30,7 +30,7 @@ int main()
 }
 ```
 
-## C++ functions
+** C++ functions**
 ```python
 sizeof(int)
 ```
@@ -43,7 +43,12 @@ double 8
 bool 1
 
 
+**Constant**
+```python
+const int weightGoal = 100;
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE4NzQ5MDUsLTY2ODg4ODIwMSwyND
-AwMzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMwMjE5MV19
+eyJoaXN0b3J5IjpbNzAzNjkyNDkzLC0xNjcxODc0OTA1LC02Nj
+g4ODgyMDEsMjQwMDM0NjUsLTEwMzUxODA5NTAsLTEyODAzMDIx
+OTFdfQ==
 -->
