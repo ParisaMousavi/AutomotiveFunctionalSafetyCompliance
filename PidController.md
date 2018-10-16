@@ -11,14 +11,15 @@ For tuning a PID the following steps can be used:
 
 ## PID
   Proportional, Integral, Derivation feedback loop
- 
- ## Gain
- 
+  
+## Gain
  Amount of output given from each of the components of PID
- 
-## Feedforward
 
+
+
+## Feedforward
+A known value supplied to the output as a guesstimate so the PID o
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkxNzc0Ml19
+eyJoaXN0b3J5IjpbLTE4NzgzMTM4MTldfQ==
 -->
