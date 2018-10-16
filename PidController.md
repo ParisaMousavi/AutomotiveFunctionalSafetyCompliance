@@ -28,8 +28,10 @@ s -> SetPoint
 f -> Feedback
 Then we can calculate the error and the goal -> Steady State Position
 This is a basic diagram, which represents the PID Controller logic.
+
 ![The basic PID diagram](https://github.com/ParisaMousavi/AutomotiveFunctionalSafetyCompliance/blob/master/PIDBasicDiagram.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NDkxNTEwLC03OTUwMTUxMTAsNTA4MD
-M5NTY0LDEwNjUwMzk3MjIsMTI4MDQ2MDc4OF19
+eyJoaXN0b3J5IjpbNDY3MjA0OTM2LDcxNzQ5MTUxMCwtNzk1MD
+E1MTEwLDUwODAzOTU2NCwxMDY1MDM5NzIyLDEyODA0NjA3ODhd
+fQ==
 -->
