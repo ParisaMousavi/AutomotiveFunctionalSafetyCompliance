@@ -18,8 +18,9 @@ For tuning a PID the following steps can be used:
 ## Feedforward
 A known value supplied to the output as a guesstimate so the PID only has to make minor correction.
 
+--
 PID controll lies at the heart of any advanced robotics motion.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE2NDg4MDddfQ==
+eyJoaXN0b3J5IjpbLTE4MDQ0ODA2MjldfQ==
 -->
