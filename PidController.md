@@ -21,7 +21,7 @@ A known value supplied to the output as a guesstimate so the PID only has to mak
 
 * PID controll lies at the heart of any advanced robotics motion.
 * Essentially, it is a way of controlling something, i.e. a wheel or an arm, using information gathered by the surroundings, in robotics, data is usually gathered through sensors, like encoders, range sensors, light sensors, etc.
-* 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDQ2MDc4OF19
+eyJoaXN0b3J5IjpbMTA2NTAzOTcyMiwxMjgwNDYwNzg4XX0=
 -->
