@@ -22,9 +22,11 @@ A known value supplied to the output as a guesstimate so the PID only has to mak
 * PID controll lies at the heart of any advanced robotics motion.
 * Essentially, it is a way of controlling something, i.e. a wheel or an arm, using information gathered by the surroundings, in robotics, data is usually gathered through sensors, like encoders, range sensors, light sensors, etc.
 
-* PID Controller is for controlling and minimizing the error. In this system we have SetPoint and Feedback.  
+PID Controller is for controlling and minimizing the error. In this system we have SetPoint and Feedback.  
 e = s-f  
+s -> SetPoint 
+f -> Feedback
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIxOTQ5NjYsMTA2NTAzOTcyMiwxMj
-gwNDYwNzg4XX0=
+eyJoaXN0b3J5IjpbLTY3MTcxOTYzNCwxMDY1MDM5NzIyLDEyOD
+A0NjA3ODhdfQ==
 -->
