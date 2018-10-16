@@ -27,15 +27,8 @@ e = s-f
 s -> SetPoint 
 f -> Feedback
 Then we can calculate the error and the goal -> Steady State Position
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+This is a basic diagram, which represents the PID Controller logic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTIxMzc4Niw1MDgwMzk1NjQsMTA2NT
+eyJoaXN0b3J5IjpbLTc5NTAxNTExMCw1MDgwMzk1NjQsMTA2NT
 AzOTcyMiwxMjgwNDYwNzg4XX0=
 -->
