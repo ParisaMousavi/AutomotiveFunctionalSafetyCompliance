@@ -7,7 +7,7 @@ For tuning a PID the following steps can be used:
 3- Increase the D gain unit the oscillation go away 
 4- Repeat step 2 and 3 until increasing the D gain does not stop all oscillation.
 5- Set p and D to the last stable values.
-6- Increase the I gain until it brings you to the setpo 
+6- Increase the I gain until it brings you to the setpoint with the number of oscillation desired. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgzODU5MzVdfQ==
+eyJoaXN0b3J5IjpbMTU0NDA3NTM4Ml19
 -->
