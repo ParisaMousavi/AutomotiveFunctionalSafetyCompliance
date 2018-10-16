@@ -35,11 +35,12 @@ SetPoint -> is the position where we should be.
 Feedback -> is the position where we are.
 Eyes -> are the sensors and we get information from it.
 Legs -> are the mechanism which we use to get the goal.
+Brain -> Controls the legs.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzE3NDg1LDcxNzQ5MTUxMCwtNzk1MD
-E1MTEwLDUwODAzOTU2NCwxMDY1MDM5NzIyLDEyODA0NjA3ODhd
-fQ==
+eyJoaXN0b3J5IjpbMTc1OTgzNTIyNCw3MTc0OTE1MTAsLTc5NT
+AxNTExMCw1MDgwMzk1NjQsMTA2NTAzOTcyMiwxMjgwNDYwNzg4
+XX0=
 -->
