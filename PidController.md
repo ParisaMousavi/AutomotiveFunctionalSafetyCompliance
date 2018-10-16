@@ -27,7 +27,15 @@ e = s-f
 s -> SetPoint 
 f -> Feedback
 Then we can calculate the error and the goal -> Steady State Position
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4MDM5NTY0LDEwNjUwMzk3MjIsMTI4MD
-Q2MDc4OF19
+eyJoaXN0b3J5IjpbLTM3OTIxMzc4Niw1MDgwMzk1NjQsMTA2NT
+AzOTcyMiwxMjgwNDYwNzg4XX0=
 -->
