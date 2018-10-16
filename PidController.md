@@ -10,8 +10,15 @@ For tuning a PID the following steps can be used:
 6- Increase the I gain until it brings you to the setpoint with the number of oscillation desired. 
 
 ## PID
- Proportional, Integral,a Derivation feedback loop
+  Proportional, Integral, Derivation feedback loop
+ 
+ ## Gain
+ 
+ Amount of output given from each of the components of PID
+ 
+## Feedforward
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDg4MTQ1M119
+eyJoaXN0b3J5IjpbLTIxMjkxNzc0Ml19
 -->
