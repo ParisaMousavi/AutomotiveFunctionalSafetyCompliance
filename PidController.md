@@ -33,10 +33,13 @@ This is a basic diagram, which represents the PID Controller logic.
 
 SetPoint -> is the position where we should be.
 Feedback -> is the position where we are.
+Eyes -> are the sensors and we get information from it.
+Legs -> are the mechanism which we use to get the goal.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTI2NzY5OSw3MTc0OTE1MTAsLTc5NT
-AxNTExMCw1MDgwMzk1NjQsMTA2NTAzOTcyMiwxMjgwNDYwNzg4
-XX0=
+eyJoaXN0b3J5IjpbMTIzNzE3NDg1LDcxNzQ5MTUxMCwtNzk1MD
+E1MTEwLDUwODAzOTU2NCwxMDY1MDM5NzIyLDEyODA0NjA3ODhd
+fQ==
 -->
