@@ -26,7 +26,8 @@ PID Controller is for controlling and minimizing the error. In this system we ha
 e = s-f  
 s -> SetPoint 
 f -> Feedback
+Then we can calculate the error
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTcxOTYzNCwxMDY1MDM5NzIyLDEyOD
-A0NjA3ODhdfQ==
+eyJoaXN0b3J5IjpbLTIwMjM1MDMzNjgsMTA2NTAzOTcyMiwxMj
+gwNDYwNzg4XX0=
 -->
