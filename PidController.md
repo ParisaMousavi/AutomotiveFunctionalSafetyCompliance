@@ -37,12 +37,12 @@ This is a basic diagram, which represents the PID Controller logic.
 * Legs -> are the mechanism which we use to get the goal.
 * Brain -> Controls the legs.
 
-This is a control loop and it's usually a periodic loop.
+This is a control loop and it's usually a periodic loop. The error will be minimized here.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODU3MjM1Nyw3MTc0OTE1MTAsLTc5NT
+eyJoaXN0b3J5IjpbMTE5Njc4Njg2MSw3MTc0OTE1MTAsLTc5NT
 AxNTExMCw1MDgwMzk1NjQsMTA2NTAzOTcyMiwxMjgwNDYwNzg4
 XX0=
 -->
