@@ -109,13 +109,24 @@ int Factorial(int n){
     }else{
         return n * Factorial (n-1);
     }
-    
 }
 ```
 
+```python
+// This is the main.cpp file
+#include <iostream>
+#include <Factorial.h>
+int main()
+{
+    // feel free to change this test case!
+    int value = Factorial(6);
+    std::cout << "6! should equal 720. Your Factorial method returned:" << std::endl;
+    std::cout << value << std::endl;
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDIzNzMyLC0yMTI4ODI1MzI0LC0xMj
-IwNTg0MjY4LC0yMDk0NTY3NjM0LC0xNjcxODc0OTA1LC02Njg4
-ODgyMDEsMjQwMDM0NjUsLTEwMzUxODA5NTAsLTEyODAzMDIxOT
-FdfQ==
+eyJoaXN0b3J5IjpbMTg3NzY3MTE5MywtMjEyODgyNTMyNCwtMT
+IyMDU4NDI2OCwtMjA5NDU2NzYzNCwtMTY3MTg3NDkwNSwtNjY4
+ODg4MjAxLDI0MDAzNDY1LC0xMDM1MTgwOTUwLC0xMjgwMzAyMT
+kxXX0=
 -->
