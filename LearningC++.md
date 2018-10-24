@@ -56,9 +56,19 @@ const int weightGoal = 100;
     } 
 ```
 
-We can have header file `PrintString.h`
+We can have header file `PrintString.h`  
+```python
+/*
+This header file defines the function signature for PrintString.
+*/
+#include <string>
+
+void PrintString(std::string, int);
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc5MjcyMTMsLTIwOTQ1Njc2MzQsLT
-E2NzE4NzQ5MDUsLTY2ODg4ODIwMSwyNDAwMzQ2NSwtMTAzNTE4
-MDk1MCwtMTI4MDMwMjE5MV19
+eyJoaXN0b3J5IjpbMTI2NTcwNzkzNSwtMjA5NDU2NzYzNCwtMT
+Y3MTg3NDkwNSwtNjY4ODg4MjAxLDI0MDAzNDY1LC0xMDM1MTgw
+OTUwLC0xMjgwMzAyMTkxXX0=
 -->
