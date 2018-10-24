@@ -96,13 +96,25 @@ int main()
 *3- Create main cpp file
 
 ```python
-// This is the header file
-int Factor
+// This is the header file Factorial.h
+int Factorial(int n);
+```
 
+```python
+// This is the cpp of the header Factorial.cpp
+#include <Factorial.h>
+int Factorial(int n){
+    if (n == 1){
+        return 1;
+    }else{
+        return n * Factorial (n-1);
+    }
+    
+}
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDA2NzI2LC0yMTI4ODI1MzI0LC0xMj
+eyJoaXN0b3J5IjpbLTcwNDIzNzMyLC0yMTI4ODI1MzI0LC0xMj
 IwNTg0MjY4LC0yMDk0NTY3NjM0LC0xNjcxODc0OTA1LC02Njg4
 ODgyMDEsMjQwMDM0NjUsLTEwMzUxODA5NTAsLTEyODAzMDIxOT
 FdfQ==
