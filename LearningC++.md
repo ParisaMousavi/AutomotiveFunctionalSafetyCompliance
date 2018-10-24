@@ -90,11 +90,11 @@ int main()
 }
 ```
 
-**Example for Header and Recurcive function**
-
+**Example for Header and Recursive function**
+1- Fi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE3Mjc4MSwtMTIyMDU4NDI2OCwtMj
-A5NDU2NzYzNCwtMTY3MTg3NDkwNSwtNjY4ODg4MjAxLDI0MDAz
-NDY1LC0xMDM1MTgwOTUwLC0xMjgwMzAyMTkxXX0=
+eyJoaXN0b3J5IjpbLTE0MTMwMDU4ODIsLTEyMjA1ODQyNjgsLT
+IwOTQ1Njc2MzQsLTE2NzE4NzQ5MDUsLTY2ODg4ODIwMSwyNDAw
+MzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMwMjE5MV19
 -->
