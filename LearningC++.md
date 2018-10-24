@@ -91,10 +91,11 @@ int main()
 ```
 
 **Example for Header and Recursive function**
-1- Fi
+1- First create a header 
+2- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMwMDU4ODIsLTEyMjA1ODQyNjgsLT
+eyJoaXN0b3J5IjpbLTIxMjg4MjUzMjQsLTEyMjA1ODQyNjgsLT
 IwOTQ1Njc2MzQsLTE2NzE4NzQ5MDUsLTY2ODg4ODIwMSwyNDAw
 MzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMwMjE5MV19
 -->
