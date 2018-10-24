@@ -91,11 +91,13 @@ int main()
 ```
 
 **Example for Header and Recursive function**
-1- First create a header 
-2- 
+1- create a header 
+2- Create a cpp file for header
+3- Create main cpp file
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg4MjUzMjQsLTEyMjA1ODQyNjgsLT
-IwOTQ1Njc2MzQsLTE2NzE4NzQ5MDUsLTY2ODg4ODIwMSwyNDAw
-MzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMwMjE5MV19
+eyJoaXN0b3J5IjpbLTEzOTIwMDI0OTIsLTIxMjg4MjUzMjQsLT
+EyMjA1ODQyNjgsLTIwOTQ1Njc2MzQsLTE2NzE4NzQ5MDUsLTY2
+ODg4ODIwMSwyNDAwMzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMwMj
+E5MV19
 -->
