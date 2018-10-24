@@ -73,6 +73,9 @@ void PrintString(string str, int n)
     for( int a = 1 ; a <= n ; a = a + 1){
         cout << str << endl;
     } 
+    for (int i = 0; i < n; i++) {
+        cout << str << endl;
+    }
 }
 ```
 
@@ -88,8 +91,10 @@ int main()
 ```
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDUxMTk3MywtMjA5NDU2NzYzNCwtMT
-Y3MTg3NDkwNSwtNjY4ODg4MjAxLDI0MDAzNDY1LC0xMDM1MTgw
-OTUwLC0xMjgwMzAyMTkxXX0=
+eyJoaXN0b3J5IjpbLTEyMjA1ODQyNjgsLTIwOTQ1Njc2MzQsLT
+E2NzE4NzQ5MDUsLTY2ODg4ODIwMSwyNDAwMzQ2NSwtMTAzNTE4
+MDk1MCwtMTI4MDMwMjE5MV19
 -->
