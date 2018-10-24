@@ -48,8 +48,17 @@ bool 1
 ```python
 const int weightGoal = 100;
 ```
+
+**For Loop**
+```python
+    for( int a = 1 ; a <= n ; a = a + 1){
+        cout << str << endl;
+    } 
+```
+
+We can have header file PrintString.h
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ1Njc2MzQsLTE2NzE4NzQ5MDUsLT
-Y2ODg4ODIwMSwyNDAwMzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMw
-MjE5MV19
+eyJoaXN0b3J5IjpbLTc1MDE4NTc1NywtMjA5NDU2NzYzNCwtMT
+Y3MTg3NDkwNSwtNjY4ODg4MjAxLDI0MDAzNDY1LC0xMDM1MTgw
+OTUwLC0xMjgwMzAyMTkxXX0=
 -->
