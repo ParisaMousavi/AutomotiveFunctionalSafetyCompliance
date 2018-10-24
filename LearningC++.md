@@ -91,9 +91,9 @@ int main()
 ```
 
 **Example for Header and Recursive function**
-*1- create a header 
-*2- Create a cpp file for header
-*3- Create main cpp file
+* 1- create a header 
+* 2- Create a cpp file for header
+* 3- Create main cpp file
 
 ```python
 // This is the header file Factorial.h
@@ -125,8 +125,8 @@ int main()
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzY3MTE5MywtMjEyODgyNTMyNCwtMT
-IyMDU4NDI2OCwtMjA5NDU2NzYzNCwtMTY3MTg3NDkwNSwtNjY4
-ODg4MjAxLDI0MDAzNDY1LC0xMDM1MTgwOTUwLC0xMjgwMzAyMT
-kxXX0=
+eyJoaXN0b3J5IjpbLTIwMjQzMTY0ODcsLTIxMjg4MjUzMjQsLT
+EyMjA1ODQyNjgsLTIwOTQ1Njc2MzQsLTE2NzE4NzQ5MDUsLTY2
+ODg4ODIwMSwyNDAwMzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMwMj
+E5MV19
 -->
