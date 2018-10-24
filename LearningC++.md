@@ -63,9 +63,21 @@ void PrintString(std::string, int);
 ```
 
 The header can be developed in `PrintString.cpp` file as follows:
+```python
+#include <iostream>
+#include <string>
+#include <PrintString.h>
+using namespace std;
+void PrintString(string str, int n)
+{
+    for( int a = 1 ; a <= n ; a = a + 1){
+        cout << str << endl;
+    } 
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg1ODAyMTUsLTIwOTQ1Njc2MzQsLT
-E2NzE4NzQ5MDUsLTY2ODg4ODIwMSwyNDAwMzQ2NSwtMTAzNTE4
-MDk1MCwtMTI4MDMwMjE5MV19
+eyJoaXN0b3J5IjpbMTYyOTMyNjgwNSwtMjA5NDU2NzYzNCwtMT
+Y3MTg3NDkwNSwtNjY4ODg4MjAxLDI0MDAzNDY1LC0xMDM1MTgw
+OTUwLC0xMjgwMzAyMTkxXX0=
 -->
