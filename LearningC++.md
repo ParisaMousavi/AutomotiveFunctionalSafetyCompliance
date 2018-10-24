@@ -90,11 +90,11 @@ int main()
 }
 ```
 
-**Exa**
+**Example for Header and Recurcive function**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTA3NjMxMCwtMTIyMDU4NDI2OCwtMj
+eyJoaXN0b3J5IjpbLTIwMTE3Mjc4MSwtMTIyMDU4NDI2OCwtMj
 A5NDU2NzYzNCwtMTY3MTg3NDkwNSwtNjY4ODg4MjAxLDI0MDAz
 NDY1LC0xMDM1MTgwOTUwLC0xMjgwMzAyMTkxXX0=
 -->
