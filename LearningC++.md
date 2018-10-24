@@ -91,13 +91,19 @@ int main()
 ```
 
 **Example for Header and Recursive function**
-1- create a header 
-2- Create a cpp file for header
-3- Create main cpp file
+*1- create a header 
+*2- Create a cpp file for header
+*3- Create main cpp file
+
+```python
+// This is the header file
+int Factor
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIwMDI0OTIsLTIxMjg4MjUzMjQsLT
-EyMjA1ODQyNjgsLTIwOTQ1Njc2MzQsLTE2NzE4NzQ5MDUsLTY2
-ODg4ODIwMSwyNDAwMzQ2NSwtMTAzNTE4MDk1MCwtMTI4MDMwMj
-E5MV19
+eyJoaXN0b3J5IjpbMTQzNDA2NzI2LC0yMTI4ODI1MzI0LC0xMj
+IwNTg0MjY4LC0yMDk0NTY3NjM0LC0xNjcxODc0OTA1LC02Njg4
+ODgyMDEsMjQwMDM0NjUsLTEwMzUxODA5NTAsLTEyODAzMDIxOT
+FdfQ==
 -->
