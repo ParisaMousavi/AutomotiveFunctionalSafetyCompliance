@@ -76,10 +76,20 @@ void PrintString(string str, int n)
 }
 ```
 
-an
+And the developed function can be call in `main.cpp` as follows:
+```python
+#include <iostream>
+#include <PrintString.h>
+using namespace std;
+int main()
+{
+    PrintString("This is a test.", 10);
+}
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDU3MTYxMiwtMjA5NDU2NzYzNCwtMT
+eyJoaXN0b3J5IjpbMTA0NDUxMTk3MywtMjA5NDU2NzYzNCwtMT
 Y3MTg3NDkwNSwtNjY4ODg4MjAxLDI0MDAzNDY1LC0xMDM1MTgw
 OTUwLC0xMjgwMzAyMTkxXX0=
 -->
