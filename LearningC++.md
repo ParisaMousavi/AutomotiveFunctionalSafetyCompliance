@@ -56,9 +56,9 @@ const int weightGoal = 100;
     } 
 ```
 
-We can have header file PrintString.h
+We can have header file `PrintString.h`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDE4NTc1NywtMjA5NDU2NzYzNCwtMT
-Y3MTg3NDkwNSwtNjY4ODg4MjAxLDI0MDAzNDY1LC0xMDM1MTgw
-OTUwLC0xMjgwMzAyMTkxXX0=
+eyJoaXN0b3J5IjpbLTIwOTc5MjcyMTMsLTIwOTQ1Njc2MzQsLT
+E2NzE4NzQ5MDUsLTY2ODg4ODIwMSwyNDAwMzQ2NSwtMTAzNTE4
+MDk1MCwtMTI4MDMwMjE5MV19
 -->
